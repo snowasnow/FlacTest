@@ -11,6 +11,8 @@
 		2EBC3F4427914B66005D942D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EBC3F4327914B66005D942D /* ContentView.swift */; };
 		2EBC3F4627914B66005D942D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EBC3F4527914B66005D942D /* Assets.xcassets */; };
 		2EBC3F4927914B66005D942D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EBC3F4827914B66005D942D /* Preview Assets.xcassets */; };
+		2EBC3F5027914CBB005D942D /* 梁静茹-勇气.flac in Resources */ = {isa = PBXBuildFile; fileRef = 2EBC3F4F27914CB0005D942D /* 梁静茹-勇气.flac */; };
+		2EBC3F5227914CD5005D942D /* 七里香.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2EBC3F5127914CD5005D942D /* 七里香.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2EBC3F4327914B66005D942D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EBC3F4527914B66005D942D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EBC3F4827914B66005D942D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EBC3F4F27914CB0005D942D /* 梁静茹-勇气.flac */ = {isa = PBXFileReference; lastKnownFileType = file; path = "梁静茹-勇气.flac"; sourceTree = "<group>"; };
+		2EBC3F5127914CD5005D942D /* 七里香.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "七里香.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				2EBC3F4127914B66005D942D /* FlacTestApp.swift */,
+				2EBC3F4F27914CB0005D942D /* 梁静茹-勇气.flac */,
+				2EBC3F5127914CD5005D942D /* 七里香.mp3 */,
 				2EBC3F4327914B66005D942D /* ContentView.swift */,
 				2EBC3F4527914B66005D942D /* Assets.xcassets */,
 				2EBC3F4727914B66005D942D /* Preview Content */,
@@ -125,6 +131,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EBC3F5027914CBB005D942D /* 梁静茹-勇气.flac in Resources */,
+				2EBC3F5227914CD5005D942D /* 七里香.mp3 in Resources */,
 				2EBC3F4927914B66005D942D /* Preview Assets.xcassets in Resources */,
 				2EBC3F4627914B66005D942D /* Assets.xcassets in Resources */,
 			);
